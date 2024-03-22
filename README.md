@@ -2,6 +2,8 @@
 
 OS: Linux
 
+Python: 3.10.13
+
 CV: 0.853
 
 LB: 0.878
@@ -17,3 +19,7 @@ LB: 0.878
 |--- lgb_base2.ipynb  # ipynb 源代码
 |--- model-lgb.txt  # lgb 模型文件
 ```
+
+- 参考
+
+[DCIC2024-光伏发电出力预测赛道baseline](https://mp.weixin.qq.com/s/-KBhwKgmdhYURyarI3vtmQ)
