@@ -18,6 +18,7 @@ LB: 0.878
 |--- src  # py 源代码目录
 |--- lgb_base2.ipynb  # ipynb 源代码
 |--- model-lgb.txt  # lgb 模型文件
+|--- requirements.txt  # 环境配置文件
 ```
 
 - 参考
